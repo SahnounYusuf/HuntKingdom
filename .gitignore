@@ -11,7 +11,7 @@ crypto/typechain
 #Hardhat files
 crypto/cache
 ./crypto/artifacts
-./crypto/package-lock.json
+./crypto/package-lock.json 
 frontend/node_modules
 frontend/.env
 frontend/package-lock.json
